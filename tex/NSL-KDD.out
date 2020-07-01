@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Mounting Google Drive}{}% 1
+\BOOKMARK [1][-]{section.2}{Imports}{}% 2
+\BOOKMARK [1][-]{section.3}{Reading Data}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Training Data}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Testing Data}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Splitting Data Into Numeric and Nominal Features}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Dropping Redundant Columns}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Numeric Features}{section.4}% 8
+\BOOKMARK [3][-]{subsubsection.4.2.1}{MinMaxScaler}{subsection.4.2}% 9
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Extraction}{subsection.4.2}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Nominal Features}{section.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.3.1}{One Hot Encoder}{subsection.4.3}% 12
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Extraction}{subsection.4.3}% 13
+\BOOKMARK [1][-]{section.5}{Final Features}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Training}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Testing}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.3}{PCA}{section.5}% 17
+\BOOKMARK [3][-]{subsubsection.5.3.1}{67 Components}{subsection.5.3}% 18
+\BOOKMARK [2][-]{subsection.5.4}{MinMaxScaling}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{Processing Labels}{}% 20
+\BOOKMARK [1][-]{section.7}{Saving Final CSVs}{}% 21
+\BOOKMARK [2][-]{subsection.7.1}{Training}{section.7}% 22
+\BOOKMARK [2][-]{subsection.7.2}{Testing}{section.7}% 23
+\BOOKMARK [1][-]{section.8}{Saving Preprocessing Models}{}% 24

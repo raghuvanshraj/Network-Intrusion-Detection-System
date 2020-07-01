@@ -1,0 +1,49 @@
+\BOOKMARK [1][-]{section.1}{Mounting Drive}{}% 1
+\BOOKMARK [1][-]{section.2}{Installations}{}% 2
+\BOOKMARK [1][-]{section.3}{Imports}{}% 3
+\BOOKMARK [1][-]{section.4}{Constants}{}% 4
+\BOOKMARK [1][-]{section.5}{Device Check for GPU}{}% 5
+\BOOKMARK [1][-]{section.6}{Dataset \046 DataLoader}{}% 6
+\BOOKMARK [2][-]{subsection.6.1}{NSLKDDDataset}{section.6}% 7
+\BOOKMARK [2][-]{subsection.6.2}{NSLKDDFeatures}{section.6}% 8
+\BOOKMARK [2][-]{subsection.6.3}{NSLKDDSiameseNetDataSet}{section.6}% 9
+\BOOKMARK [2][-]{subsection.6.4}{Training Data}{section.6}% 10
+\BOOKMARK [2][-]{subsection.6.5}{Testing Data}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.6}{NumPy Arrays}{section.6}% 12
+\BOOKMARK [1][-]{section.7}{Data Plots}{}% 13
+\BOOKMARK [2][-]{subsection.7.1}{Plot Pie Chart}{section.7}% 14
+\BOOKMARK [1][-]{section.8}{Model}{}% 15
+\BOOKMARK [2][-]{subsection.8.1}{Autoencoder}{section.8}% 16
+\BOOKMARK [2][-]{subsection.8.2}{AnomalyDetector}{section.8}% 17
+\BOOKMARK [2][-]{subsection.8.3}{SignatureGenerator}{section.8}% 18
+\BOOKMARK [2][-]{subsection.8.4}{L1Difference}{section.8}% 19
+\BOOKMARK [2][-]{subsection.8.5}{SiameseNet}{section.8}% 20
+\BOOKMARK [2][-]{subsection.8.6}{MultiClassClassifier}{section.8}% 21
+\BOOKMARK [1][-]{section.9}{Training Utilities}{}% 22
+\BOOKMARK [2][-]{subsection.9.1}{Network Loss}{section.9}% 23
+\BOOKMARK [2][-]{subsection.9.2}{Train Network}{section.9}% 24
+\BOOKMARK [2][-]{subsection.9.3}{Encoder Loss}{section.9}% 25
+\BOOKMARK [2][-]{subsection.9.4}{Train Encoder}{section.9}% 26
+\BOOKMARK [2][-]{subsection.9.5}{SiameseNet Loss}{section.9}% 27
+\BOOKMARK [2][-]{subsection.9.6}{Train SiameseNet}{section.9}% 28
+\BOOKMARK [2][-]{subsection.9.7}{Partition Dataset}{section.9}% 29
+\BOOKMARK [2][-]{subsection.9.8}{Plotting Losses}{section.9}% 30
+\BOOKMARK [2][-]{subsection.9.9}{Saving and Loading Models}{section.9}% 31
+\BOOKMARK [1][-]{section.10}{Training}{}% 32
+\BOOKMARK [2][-]{subsection.10.1}{Autoencoders}{section.10}% 33
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Label Encoding}{subsection.10.1}% 34
+\BOOKMARK [2][-]{subsection.10.2}{Networks}{section.10}% 35
+\BOOKMARK [3][-]{subsubsection.10.2.1}{Loading Autoencoder 1}{subsection.10.2}% 36
+\BOOKMARK [3][-]{subsubsection.10.2.2}{Loading Autoencoder 2}{subsection.10.2}% 37
+\BOOKMARK [3][-]{subsubsection.10.2.3}{AnomalyDetector}{subsection.10.2}% 38
+\BOOKMARK [2][-]{subsection.10.3}{Data Distributions}{section.10}% 39
+\BOOKMARK [3][-]{subsubsection.10.3.1}{PCA}{subsection.10.3}% 40
+\BOOKMARK [3][-]{subsubsection.10.3.2}{Groups}{subsection.10.3}% 41
+\BOOKMARK [3][-]{subsubsection.10.3.3}{Plot Points}{subsection.10.3}% 42
+\BOOKMARK [3][-]{subsubsection.10.3.4}{Training Data Plots}{subsection.10.3}% 43
+\BOOKMARK [2][-]{subsection.10.4}{Anomaly Detection}{section.10}% 44
+\BOOKMARK [3][-]{subsubsection.10.4.1}{Utilities}{subsection.10.4}% 45
+\BOOKMARK [3][-]{subsubsection.10.4.2}{Clustering Normal Points}{subsection.10.4}% 46
+\BOOKMARK [3][-]{subsubsection.10.4.3}{Random Forest Classifier}{subsection.10.4}% 47
+\BOOKMARK [3][-]{subsubsection.10.4.4}{AdaBoost Classifier}{subsection.10.4}% 48
+\BOOKMARK [2][-]{subsection.10.5}{MultiClassClassifier}{section.10}% 49

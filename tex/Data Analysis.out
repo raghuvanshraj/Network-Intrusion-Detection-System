@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Mounting Google Drive}{}% 1
+\BOOKMARK [1][-]{section.2}{Imports}{}% 2
+\BOOKMARK [1][-]{section.3}{Reading Data}{}% 3
+\BOOKMARK [1][-]{section.4}{Data Segregation}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{MinMaxScaler}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Get Dummies}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Numeric Features}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Univariate Selection}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{Correlation Matrix with Heatmap}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Nominal Features}{}% 10
+\BOOKMARK [2][-]{subsection.6.1}{Decision Tree Classifier}{section.6}% 11
